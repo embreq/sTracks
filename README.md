@@ -134,7 +134,7 @@ Proof of concept
 | 430-228 | 430-728 |           | [Track]                                         |        |
 | 430-229 | 430-729 |           | [Track]                                         |        |
 | 430-230 | 430-730 |           | [Track]                                         |        |
-| 430-231 | 430-731 |           | [Track](https://qr.zugportal.de/u/948004302311  | Lab    |                           |        |
+| 430-231 | 430-731 |           | [Track](https://qr.zugportal.de/u/948004302311) | Lab    |
 | 430-232 | 430-732 |           | [Track](https://qr.zugportal.de/u/948004302329) | Lab    |
 | 430-233 | 430-733 |           | [Track](https://qr.zugportal.de/u/948004302337) | Lab    |
 | 430-234 | 430-734 |           | [Track](https://qr.zugportal.de/u/948004302345) | Lab    |

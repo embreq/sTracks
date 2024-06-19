@@ -47,7 +47,7 @@ Proof of concept
 | 430 039 | 430-539 | Rot       | [Track]                                         |        |
 | 430 040 | 430-540 | Rot       | [Track](https://qr.zugportal.de/u/948004300406) | Field  |
 | 430 041 | 430-541 | Rot       | [Track]                                         |        |
-| 430 042 | 430-542 | Rot       | [Track](https://qr.zugportal.de/u/948004300422  |        |
+| 430 042 | 430-542 | Rot       | [Track](https://qr.zugportal.de/u/948004300422) |        |
 | 430 043 | 430-543 | Rot       | [Track](https://qr.zugportal.de/u/948004300430) | Field  |
 | 430 044 | 430-544 | Rot       | [Track](https://qr.zugportal.de/u/948004300448) | Field  |
 | 430 045 | 430-545 | Rot       | [Track](https://qr.zugportal.de/u/948004300455) | Lab    |

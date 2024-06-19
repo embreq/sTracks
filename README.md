@@ -1,4 +1,4 @@
-# sTrack
+# sTracks
 
 Proof of concept
 

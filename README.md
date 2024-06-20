@@ -82,7 +82,7 @@ Proof of concept
 | 430-074 | 430-574 | ?         | [Track]                                         |        |
 | 430-075 | 430-575 | ?         | [Track]                                         |        |
 | 430-076 | 430-576 | ?         | [Track]                                         |        |
-| 430-077 | 430-577 | Recruting | [Track]                                         |        |
+| 430-077 | 430-577 | Recruting | [Track](https://qr.zugportal.de/u/948004300778) | Lab/Es |
 | 430-078 | 430-578 |           | [Track]                                         |        |
 | 430-079 | 430-579 |           | [Track]                                         |        |
 | 430-080 | 430-580 |           | [Track]                                         |        |
@@ -92,7 +92,7 @@ Proof of concept
 | 430-084 | 430-584	|           | [Track]                                         |        |
 | 430-085 | 430-585 |           | [Track]                                         |        |
 | 430-086 | 430-586 |           | [Track]                                         |        |
-| 430-087 | 430-587 | Recruting | [Track]                                         |        |
+| 430-087 | 430-587 | Recruting | [Track](https://qr.zugportal.de/u/948004300877) |        |
 | 430-088 | 430-588 |           | [Track]                                         |        |
 | 430-089 | 430-589 |           | [Track]                                         |        |
 | 430-090 | 430-590 |           | [Track]                                         |        |
@@ -172,6 +172,8 @@ Proof of concept
 
 | Front   | Back    | Farbe     | Link                                            | Source |
 |:-------:|:-------:|:---------:|:-----------------------------------------------:|:------:|
+| 423-023 | 423-X23 | Weiß      | [Track](https://qr.zugportal.de/u/948004230231) | Field  |
+| ~~423-025~~ |         | N/A       | N/A / Verschrottet                              | Lab    |
 | 423-311 | 423-811 | Weiß      | [Track](https://qr.zugportal.de/u/948004233110) | Field  |
 
 

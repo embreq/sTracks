@@ -171,7 +171,7 @@ Proof of concept
 <h2>BR423</h2>
 
 | Front      | Back      | Farbe    | Link                                           | Source |
-|:----------:|:---------:|:--------:|:------------------------------------------- --:|:------:|
+|:----------:|:---------:|:--------:|:----------------------------------------------:|:------:|
 | 423-001    |	423-001  | Weiß     | [Track](https://qr.zugportal.de/u/94800423001x | Lab    |
 | 423-002    |	423-002  | Weiß     | [Track](https://qr.zugportal.de/u/94800423002x | Lab    |
 | 423-003    |	423-003  | Rot	    | [Track](https://qr.zugportal.de/u/94800423003x | Lab    |
@@ -194,7 +194,7 @@ Proof of concept
 | 423-020    |	423-020  | 	        | [Track](https://qr.zugportal.de/u/94800423020x | Lab    |
 | 423-021    |	423-021  | 	        | [Track](https://qr.zugportal.de/u/94800423021x | Lab    |
 | 423-022    |	423-022  | 	        | [Track](https://qr.zugportal.de/u/94800423022x | Lab    |
-| 423-023    | 423-X23   | Weiß     | [Track](https://qr.zugportal.de/u/948004230231)| Field  |
+| 423-023    | 423-X23   | Weiß     | [Track](https://qr.zugportal.de/u/948004230231) | Field  |
 | 423-024    |	423-024  | 	        | [Track](https://qr.zugportal.de/u/94800423024x | Lab    |
 |~~423-025~~ |	423-025  | 	        | ~~[Track]~~ (Verschrottet)                     | Field  |
 | 423-026    |	423-026  | 	        | [Track](https://qr.zugportal.de/u/94800423026x | Lab    |
@@ -210,7 +210,7 @@ Proof of concept
 | 423-308    |	423-308  | Weiß	    | [Track](https://qr.zugportal.de/u/94800423308x | Lab    |
 | 423-309    |	423-309  | Weiß	    | [Track](https://qr.zugportal.de/u/94800423309x | Lab    |
 | 423-310    |	423-310  | Weiß	    | [Track](https://qr.zugportal.de/u/94800423310x | Lab    |
-| 423-311    | 423-811   | Weiß     | [Track](https://qr.zugportal.de/u/948004233110)| Field  |
+| 423-311    | 423-811   | Weiß     | [Track](https://qr.zugportal.de/u/948004233110) | Field  |
 | 423-322    |	423-322  | Weiß	    | [Track](https://qr.zugportal.de/u/94800423322x | Lab    |
 | 423-323    |	423-323  | Weiß	    | [Track](https://qr.zugportal.de/u/94800423323x | Lab    |
 | 423-324    |	423-324  | Weiß	    | [Track](https://qr.zugportal.de/u/94800423324x | Lab    |

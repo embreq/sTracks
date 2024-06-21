@@ -35,7 +35,11 @@ function get-TrainInfos($frontnum, $dbmultiplikator, $RegioCode) {
     # Quersumme berechnen
     $crossSum = 0
     foreach ($value in $result) {
-        $crossSum += $value
+        $sum = [int][string]$value
+        while ($sum -gt 0) {
+            $crossSum += $sum % 10
+            $sum = [math]::Floor($sum / 10)
+        }
     }
 
     # Nächste Zehnerstelle finden und Prüfziffer berechnen
@@ -56,8 +60,8 @@ for ($num = 430001; $num -le 430097; $num++) {
     get-TrainInfos -frontnum $frontnum -dbmultiplikator $dbmultiplikator -RegioCode $RegioCode
 }
 
-# Erstelle Bereich von 430200 bis 430297
-for ($num = 430200; $num -le 430297; $num++) {
+# Erstelle Bereich von 430200 bis 430257
+for ($num = 430200; $num -le 430257; $num++) {
     $frontnum = $num.ToString()
     $backnum = ($num + 500).ToString()
     $dbmultiplikator = "121212" #fixer DB-Wert

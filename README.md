@@ -154,7 +154,7 @@ Proof of concept
 | 430-248 | 430-748 |           | [Track](https://qr.zugportal.de/u/948004302485) | Lab    |
 | 430-249 | 430-749 |           | [Track](https://qr.zugportal.de/u/948004302493) | Lab    |
 | 430-250 | 430-750 |           | [Track](https://qr.zugportal.de/u/948004302501) | Lab    |
-| 430-251 | 430-751 |           | [Track](https://qr.zugportal.de/u/948004302519) | Lab    |
+| 430-251 | 430-751 | Hak       | [Track](https://qr.zugportal.de/u/948004302519) | Lab    |
 | 430-252 | 430-752 |           | [Track](https://qr.zugportal.de/u/948004302527) | Lab    |
 | 430-253 | 430-753 |           | [Track](https://qr.zugportal.de/u/948004302535) | Lab    |
 | 430-254 | 430-754 |           | [Track](https://qr.zugportal.de/u/948004302543) | Lab    |

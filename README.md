@@ -59,7 +59,7 @@ Proof of concept
 | 430 051 | 430-551 | Rot       | [Track](https://qr.zugportal.de/u/948004300513) | Lab    |
 | 430 052 | 430-552 | Rot       | [Track](https://qr.zugportal.de/u/948004300521) | Lab    |
 | 430 053 | 430-553 | Rot       | [Track](https://qr.zugportal.de/u/948004300539) | Lab    |
-| 430 054 | 430-554 | Rot       | [Track](https://qr.zugportal.de/u/948004300547) | Lab    |
+| 430 054 | 430-554 | Rot-Rea   | [Track](https://qr.zugportal.de/u/948004300547) | Lab    |
 | 430 055 | 430-555 | Rot       | [Track](https://qr.zugportal.de/u/948004300554) | Lab    |
 | 430 056 | 430-556 | Rot       | [Track](https://qr.zugportal.de/u/948004300562) | Field  |
 | 430 057 | 430-557 | Rot       | [Track](https://qr.zugportal.de/u/948004300570) | Lab    |

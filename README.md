@@ -18,7 +18,7 @@ Proof of concept
 | 430-010 | 430-510 | Rot       | [Track](https://qr.zugportal.de/u/948004300109) | Lab    |
 | 430-011 | 430-511 | Rot       | [Track](https://qr.zugportal.de/u/948004300117) | Lab    |
 | 430 012 | 430-512 | Rot       | [Track](https://qr.zugportal.de/u/948004300125) | Lab    |
-| 430 013 | 430-513 | Rot       | [Track](https://qr.zugportal.de/u/948004300133) | Lab    |
+| 430 013 | 430-513 | Rot *Fly  | [Track](https://qr.zugportal.de/u/948004300133) | Lab    |
 | 430 014 | 430-514 | Rot       | [Track](https://qr.zugportal.de/u/948004300141) | Lab    |
 | 430 015 | 430-515 | Rot       | [Track](https://qr.zugportal.de/u/948004300158) | Lab    |
 | 430 016 | 430-516 | Rot       | [Track](https://qr.zugportal.de/u/948004300166) | Lab    |
@@ -26,7 +26,7 @@ Proof of concept
 | 430 018 | 430-518 | Rot       | [Track](https://qr.zugportal.de/u/948004300182) | Lab    |
 | 430 019 | 430-519 | Rot       | [Track](https://qr.zugportal.de/u/948004300190) | Lab    |
 | 430 020 | 430-520 | Rot       | [Track](https://qr.zugportal.de/u/948004300208) | Lab    |
-| 430 021 | 430-521 | Rot       | [Track](https://qr.zugportal.de/u/948004300216) | Lab    |
+| 430 021 | 430-521 | Rot *Mrde | [Track](https://qr.zugportal.de/u/948004300216) | Lab    |
 | 430 022 | 430-522 | Rot       | [Track](https://qr.zugportal.de/u/948004300224) | Lab    |
 | 430 023 | 430-523 | Rot       | [Track](https://qr.zugportal.de/u/948004300232) | Lab    |
 | 430 024 | 430-524 | Rot       | [Track](https://qr.zugportal.de/u/948004300240) | Lab    |
@@ -45,7 +45,7 @@ Proof of concept
 | 430 037 | 430-537 | Rot       | [Track](https://qr.zugportal.de/u/948004300372) | Lab    |
 | 430 038 | 430-538 | Rot       | [Track](https://qr.zugportal.de/u/948004300380) | Lab    |
 | 430 039 | 430-539 | Rot       | [Track](https://qr.zugportal.de/u/948004300398) | Lab    |
-| 430 040 | 430-540 | Rot       | [Track](https://qr.zugportal.de/u/948004300406) | Field  |
+| 430 040 | 430-540 | Rot*MndEy | [Track](https://qr.zugportal.de/u/948004300406) | Field  |
 | 430 041 | 430-541 | Rot       | [Track](https://qr.zugportal.de/u/948004300414) | Lab    |
 | 430 042 | 430-542 | Rot       | [Track](https://qr.zugportal.de/u/948004300422) | Lab    |
 | 430 043 | 430-543 | Rot       | [Track](https://qr.zugportal.de/u/948004300430) | Field  |
@@ -98,7 +98,7 @@ Proof of concept
 | 430-090 | 430-590 |           | [Track](https://qr.zugportal.de/u/948004300901) |        |
 | 430-091 | 430-591 |           | [Track](https://qr.zugportal.de/u/948004300919) |        |
 | 430-092 | 430-592 |           | [Track](https://qr.zugportal.de/u/948004300927) |        |
-| 430-093 | 430-593 |           | [Track](https://qr.zugportal.de/u/948004300935) |        |
+| 430-093 | 430-593 | Rot *Dolc | [Track](https://qr.zugportal.de/u/948004300935) |        |
 | 430-094 | 430-594 |           | [Track](https://qr.zugportal.de/u/948004300943) |        |
 | 430-095 | 430-595 |           | [Track](https://qr.zugportal.de/u/948004300950) |        |
 | 430-096 | 430-596 |           | [Track](https://qr.zugportal.de/u/948004300968) |        |
